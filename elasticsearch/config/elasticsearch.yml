@@ -1,0 +1,5 @@
+cluster.name: ENOW-elasticsearch
+path.data: /tmp/data
+path.logs: /tmp/log
+http.cors.allow-origin: "/.*/"
+http.cors.enabled: true
